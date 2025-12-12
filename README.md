@@ -1,5 +1,3 @@
-Implementation Full-subtractor-circuit
-
 AIM:
 
 To design a Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
