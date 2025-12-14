@@ -1,3 +1,4 @@
+# Full_subtractor
 AIM:
 
 To design a Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -14,7 +15,14 @@ A full subtractor is a combinational circuit that performs subtraction involving
  
 Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
+<img width="735" height="294" alt="Screenshot 2025-12-14 220130" src="https://github.com/user-attachments/assets/68f6d8fe-0091-4943-9f47-36da05bf7f00" />
+
+
 Truthtable
+
+<img width="480" height="225" alt="Screenshot 2025-12-14 220700" src="https://github.com/user-attachments/assets/1e5b6b23-0c4b-4dd8-9c94-dae48a578901" />
+
+
 Procedure
 Write the detailed procedure here
 Program:
